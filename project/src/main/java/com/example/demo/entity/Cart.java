@@ -19,7 +19,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-@Table(name = "carts") //klhfv
+@Table(name = "carts") //klhfvqsdgfs
 public class Cart {
 	@Id
 	@GeneratedValue(generator = "UUID")
